@@ -1,2 +1,7 @@
 # hello-world
-First repository!
+
+Hello!
+
+I'm brand new to developing. 
+Let's see how I do!
+
